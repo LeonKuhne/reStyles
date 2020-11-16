@@ -11,7 +11,7 @@
       "box-shadow": "magenta 0 0 10px"
     },
     "#headshot": {
-      "border": "cyan solid 1px"
+      "border": "cyan solid 5px"
     }
   }
 }
