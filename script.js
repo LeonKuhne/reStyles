@@ -17,6 +17,7 @@ function decorate(styles) {
 
 function styleHost(hosts) {
   let host = window.location.host
+  console.log("found host", host)
   if (host in hosts) {
     let styles = hosts[host]
     decorate(styles)
