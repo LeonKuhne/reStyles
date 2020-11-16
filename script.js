@@ -16,8 +16,8 @@ function decorate(styles) {
 }
 
 function styleHost(hosts) {
-  if (host in data) {
-    let styles = data[host]
+  if (host in hosts) {
+    let styles = hosts[host]
     decorate(styles)
   }
 }
