@@ -2,6 +2,9 @@
   "www.examcompass.com": {
     "body": {
       "background": "black"
+    },
+    "#sidebar": {
+      "display": "hidden"
     }
   },
   "leonkuhne.com": {
