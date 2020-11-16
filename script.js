@@ -17,7 +17,6 @@ function decorate(styles) {
 
 function styleHost(hosts) {
   let host = window.location.host
-  console.log("found host", host)
   if (host in hosts) {
     let styles = hosts[host]
     decorate(styles)
@@ -25,7 +24,7 @@ function styleHost(hosts) {
 }
 
 window.onload = () => {
-  if (localData) {
+  if (Object.keys(localData).length) {
     console.log("using local")
     styleHost(localData)
   } else {
