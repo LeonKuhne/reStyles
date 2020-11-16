@@ -5,6 +5,9 @@
     },
     "#sidebar": {
       "display": "none"
+    },
+    "#gk-content": {
+      "width": "100%"
     }
   },
   "leonkuhne.com": {
