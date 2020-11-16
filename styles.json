@@ -1,6 +1,8 @@
 {
   "www.examcompass.com": {
-    "nothing": "void"
+    "body": {
+      "background": "black"
+    }
   },
   "leonkuhne.com": {
     "body": {
