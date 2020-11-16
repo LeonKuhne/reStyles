@@ -1,0 +1,17 @@
+{
+  "www.examcompass.com": {
+
+  },
+  "leonkuhne.com": {
+    "body": {
+      "background": "black",
+      "color": "magenta"
+    },
+    "img": {
+      "box-shadow": "magenta 0 0 10px"
+    },
+    "#headshot": {
+      "border": "magenta solid 1px"
+    }
+  }
+}
