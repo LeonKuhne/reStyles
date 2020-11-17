@@ -13,7 +13,7 @@
       "min-height": "750px"
     },
     "dk-breadcrumb": {
-      "display": none
+      "display": "none"
     }
   },
   "leonkuhne.com": {
