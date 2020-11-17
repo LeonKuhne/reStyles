@@ -12,7 +12,7 @@
     "#adminForm": {
       "min-height": "750px"
     },
-    "dk-breadcrumb": {
+    "#gk-breadcrumb": {
       "display": "none"
     }
   },
