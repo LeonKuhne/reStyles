@@ -11,6 +11,9 @@
     },
     "#adminForm": {
       "min-height": "750px"
+    },
+    "dk-breadcrumb": {
+      "display": none
     }
   },
   "leonkuhne.com": {
