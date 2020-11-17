@@ -8,6 +8,9 @@
     },
     "#gk-content": {
       "width": "100%"
+    },
+    "#adminForm": {
+      "min-height": "500px"
     }
   },
   "leonkuhne.com": {
