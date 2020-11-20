@@ -35,8 +35,8 @@
     ".GENA3c": {
       "background": "black"
     },
-    "div[role=button] ::after": {
-      "border": "solid 1px #0F0 !important"
+    "div[role=button]:after": {
+      "border": "solid 1px magenta !important"
     }
   },
   "leonkuhne.com": {
