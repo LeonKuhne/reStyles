@@ -28,6 +28,9 @@
     },
     "header": {
       "background": "black"
+    },
+    "div[role=grid]": {
+      "background": "black"
     }
   },
   "leonkuhne.com": {
