@@ -8,9 +8,11 @@ function decorate(styles) {
     Object.keys(attr).forEach(style => {
 
       // apply attributes
+      console.log("applying styles...")
       document.querySelectorAll(selector).forEach(node => {
         node.style[style] = attr[style]
       })
+      console.log("...done")
     })
   })
 }
