@@ -31,6 +31,9 @@
     },
     "div[role=grid]": {
       "background": "black"
+    },
+    ".GENA3c": {
+      "background": "black"
     }
   },
   "leonkuhne.com": {
