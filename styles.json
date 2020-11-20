@@ -32,6 +32,9 @@
     "div[role=grid]": {
       "background": "black"
     },
+    "div[necessary=false]": {
+      "display": "none"
+    },
     ".GENA3c": {
       "background": "black"
     }
