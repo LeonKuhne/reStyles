@@ -24,7 +24,7 @@
       "color": "magenta"
     },
     "body > div span": {
-      "color": "#0A0"
+      "color": "#5F5"
     },
     "div[role=button]": {
       "filter": "saturate(2) brightness(0.8)"
