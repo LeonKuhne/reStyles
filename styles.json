@@ -24,10 +24,10 @@
       "color": "magenta"
     },
     "body > div span": {
-      "color": "#0F0"
+      "color": "#0A0"
     },
     "div[role=button]": {
-      "border": "solid 1px magenta"
+      "filter": "saturate(2) brightness(0.8)"
     }
   },
   "leonkuhne.com": {
