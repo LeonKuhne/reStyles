@@ -17,9 +17,9 @@
     }
   },
   "calendar.google.com": {
-    "body div": {
+    "body > div": {
       "background": "black",
-      "color": "magenta"
+      "color": "#0F0"
     }
   },
   "leonkuhne.com": {
