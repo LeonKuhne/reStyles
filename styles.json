@@ -20,6 +20,9 @@
     "body > div": {
       "background": "black"
     },
+    "body > div div": {
+      "color": "magenta"
+    },
     "body > div span": {
       "color": "#0F0"
     }
