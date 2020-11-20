@@ -18,7 +18,9 @@
   },
   "calendar.google.com": {
     "body > div": {
-      "background": "black",
+      "background": "black"
+    },
+    "body > div *": {
       "color": "#0F0"
     }
   },
