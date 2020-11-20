@@ -20,6 +20,10 @@
     "body": {
       "background": "black",
       "color": "white"
+    },
+    "div": {
+      "background": "black",
+      "color": "magenta"
     }
   },
   "leonkuhne.com": {
