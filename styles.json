@@ -32,11 +32,11 @@
     "div[role=grid]": {
       "background": "black"
     },
-    "div[necessary=false]": {
-      "display": "none"
-    },
     ".GENA3c": {
       "background": "black"
+    },
+    "div[role=button]": {
+      "border": "solid 1px #0F0"
     }
   },
   "leonkuhne.com": {
