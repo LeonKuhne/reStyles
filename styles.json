@@ -16,6 +16,11 @@
       "display": "none"
     }
   },
+  "calendar.google.com": {
+    "body": {
+      "background": "black"
+    }
+  },
   "leonkuhne.com": {
     "body": {
       "background": "black",
