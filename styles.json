@@ -18,7 +18,8 @@
   },
   "calendar.google.com": {
     "body": {
-      "background": "black"
+      "background": "black",
+      "color": "white"
     }
   },
   "leonkuhne.com": {
