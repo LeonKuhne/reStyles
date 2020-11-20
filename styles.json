@@ -17,11 +17,7 @@
     }
   },
   "calendar.google.com": {
-    "body": {
-      "background": "black",
-      "color": "white"
-    },
-    "div": {
+    "body div": {
       "background": "black",
       "color": "magenta"
     }
