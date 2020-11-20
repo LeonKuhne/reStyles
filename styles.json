@@ -21,7 +21,7 @@
       "background": "black"
     },
     "body > div span": {
-      "color": "#0F0 !important"
+      "color": "#0F0"
     }
   },
   "leonkuhne.com": {
