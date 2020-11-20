@@ -17,16 +17,7 @@
     }
   },
   "calendar.google.com": {
-    "body > div": {
-      "background": "black"
-    },
-    ".GENA3c": {
-      "background": "black"
-    },
-    "header": {
-      "background": "black"
-    },
-    "div[role=grid]": {
+    "body > div, .GENA3c, header, div[role=grid]": {
       "background": "black"
     },
     "body > div div": {
