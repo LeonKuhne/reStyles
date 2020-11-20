@@ -20,7 +20,7 @@
     "body > div": {
       "background": "black"
     },
-    "body > div *": {
+    "body > div span": {
       "color": "#0F0"
     }
   },
