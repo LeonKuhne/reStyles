@@ -20,11 +20,8 @@
     "body > div": {
       "background": "black"
     },
-    "body > div div": {
-      "color": "magenta"
-    },
-    "body > div span": {
-      "color": "#0F0"
+    ".GENA3c": {
+      "background": "black"
     },
     "header": {
       "background": "black"
@@ -32,10 +29,13 @@
     "div[role=grid]": {
       "background": "black"
     },
-    ".GENA3c": {
-      "background": "black"
+    "body > div div": {
+      "color": "magenta"
     },
-    "div[role=button]::after": {
+    "body > div span": {
+      "color": "#0F0"
+    },
+    "div[role=button]": {
       "border": "solid 1px magenta"
     }
   },
