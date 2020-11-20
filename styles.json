@@ -36,7 +36,7 @@
       "background": "black"
     },
     "div[role=button]::after": {
-      "border": "solid 1px #0F0"
+      "border": "solid 1px #0F0 !important"
     }
   },
   "leonkuhne.com": {
