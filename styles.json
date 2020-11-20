@@ -25,6 +25,9 @@
     },
     "body > div span": {
       "color": "#0F0"
+    },
+    "header": {
+      "background": "black"
     }
   },
   "leonkuhne.com": {
