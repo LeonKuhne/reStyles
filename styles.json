@@ -17,17 +17,8 @@
     }
   },
   "calendar.google.com": {
-    "body > div, .GENA3c, header, div[role=grid]": {
+    ".GENA3c, header, div[role=grid]": {
       "background": "black"
-    },
-    "body > div div": {
-      "color": "magenta"
-    },
-    "body > div span": {
-      "color": "#4F4"
-    },
-    "div[role=button]": {
-      "filter": "saturate(2) brightness(0.8)"
     }
   },
   "leonkuhne.com": {
